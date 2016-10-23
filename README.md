@@ -1,9 +1,14 @@
 # s5.go
 Socks5 proxy server by golang   
+   
 reference: shadowsocks go local.go   
 https://github.com/shadowsocks/shadowsocks-go   
    
 # Usage
+```
+$ go build s5.go
+```
+
 ```
 $ ./s5 -h
 Usage of ./s5:
